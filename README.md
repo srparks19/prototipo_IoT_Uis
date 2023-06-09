@@ -42,3 +42,8 @@ El sensor DS18B20 permitirá medir la temperatura ambiente, analizar su influenc
 Teniendo en cuenta los manuales de los fabricantes y la información adquirida de diferentes fuentes, se realiza el montaje del prototipo con precaución, cuidando los niveles de voltaje recomendados para cada dispositivo. Se construye una estructura física que permite la obtención de datos de medición del aire y la ubicación de los medios de transporte público. El sistema de medición de calidad del aire se presenta de forma práctica y compacta.
 
 ![Iamgen ilustrativa del montaje del prototipo](https://github.com/srparks19/prototipo_IoT_Uis/assets/66749108/5f50389f-c22d-4933-9a92-ae6e5bca9ced)
+
+<h2>Creación aplicativo web</h2>
+
+El complemento que se implementó en la creación de este aplicativo se puede encontrar en la siguiente dirección:
+<a href="https://github.com/srparks19/dashboard_iot_uis">Aqui</a>
